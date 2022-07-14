@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\bin\Debug\netcoreapp3.1\3sezon1tema.exe
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\bin\Debug\netcoreapp3.1\3sezon1tema.deps.json
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\bin\Debug\netcoreapp3.1\3sezon1tema.runtimeconfig.json
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\bin\Debug\netcoreapp3.1\3sezon1tema.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\bin\Debug\netcoreapp3.1\3sezon1tema.dll
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\bin\Debug\netcoreapp3.1\3sezon1tema.pdb
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\obj\Debug\netcoreapp3.1\3sezon1tema.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\obj\Debug\netcoreapp3.1\3sezon1tema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\obj\Debug\netcoreapp3.1\3sezon1tema.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\obj\Debug\netcoreapp3.1\3sezon1tema.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\obj\Debug\netcoreapp3.1\3sezon1tema.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\obj\Debug\netcoreapp3.1\3sezon1tema.dll
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\obj\Debug\netcoreapp3.1\3sezon1tema.pdb
+C:\Users\Lenovo\source\repos\3sezon1tema\3sezon1tema\obj\Debug\netcoreapp3.1\3sezon1tema.genruntimeconfig.cache
